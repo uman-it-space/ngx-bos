@@ -1,0 +1,1 @@
+import {i as id,m as mf,w as wa}from'./main-65NPCFOQ.js';var c=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)};}static{this.\u0275cmp=id({type:e,selectors:[["ng-component"]],decls:1,vars:0,template:function(t,p){t&1&&wa(0,"router-outlet");},dependencies:[mf],encapsulation:2});}}return e})();export{c as GuestComponent};
